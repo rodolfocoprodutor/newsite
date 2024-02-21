@@ -6,6 +6,7 @@
     box-sizing: border-box;
     text-decoration: none;
     font-style: normal;
+    font-family: "Roboto", sans-serif;
 }
 body{
     font-size: 100%;
@@ -28,7 +29,6 @@ time, mark, audio, video {
     margin: 0;
     padding: 0;
     border: 0;
-    font-family: "Roboto", sans-serif;
     font-size: 52.16%;
     font: inherit;
     vertical-align: baseline;
