@@ -6,7 +6,6 @@
     box-sizing: border-box;
     text-decoration: none;
     font-style: normal;
-    font-family: "Roboto", sans-serif;
 }
 body{
     font-size: 100%;
@@ -40,6 +39,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
     line-height: 1;
+    font-family: "Roboto", sans-serif;
 }
 ol, ul {
     list-style: none;
