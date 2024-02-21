@@ -5,6 +5,7 @@
     padding: 0;
     box-sizing: border-box;
     text-decoration: none;
+    font-style: normal;
 }
 body{
     font-size: 100%;
@@ -27,7 +28,8 @@ time, mark, audio, video {
     margin: 0;
     padding: 0;
     border: 0;
-    font-size: 100%;
+    font-family: "Roboto", sans-serif;
+    font-size: 52.16%;
     font: inherit;
     vertical-align: baseline;
 }
@@ -57,6 +59,38 @@ table {
 ol, ul {
     list-style: none;
 }
+
+p {
+    font-weight: 400;
+    font-size: 1.8rem;
+    line-height: 2.7rem;
+}
+.small {
+    font-weight: 400;
+    font-size: 1.6rem;
+    line-height: 2.4rem;
+}
+.details {
+    font-weight: 400;
+    font-size: 1.4rem;
+    line-height: 2.1rem;
+}
+h3 {
+    font-weight: 550;
+    font-size: 2.4rem;
+    line-height: 3.2rem;
+}
+h2 {
+    font-weight: 550;
+    font-size: 3.2rem;
+    line-height: 3.8rem;
+}
+h1 {
+    font-weight: 550;
+    font-size: 4.8rem;
+    line-height: 5.5rem;
+}
+
 
 .container {
     width: 90%;
